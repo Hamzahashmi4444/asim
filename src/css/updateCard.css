@@ -1,0 +1,20 @@
+.updates-section {
+  padding: 10px 0px;
+}
+.update-card {
+  background-color: #fff;
+  display: flex;
+  margin: 20px 100px;
+  padding: 20px;
+  text-align: initial;
+}
+.update-card-image {
+  width: 30%;
+}
+.update-card-body {
+  padding: 5px 20px;
+}
+.update-card-text {
+  font-size: 1rem !important;
+  font-weight: normal;
+}
